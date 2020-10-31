@@ -5,14 +5,14 @@ The purpose of this analysis is to write a query to create a list of employees r
 ## Results 
 The first deliverable shows how many people are up for retirement under each title. I determined likelihood to retire on the employee's birth date. 
 
-![](data/retiring_titles_count.png)
+![](Data/retiring_titles_count.png)
 
 - There are a lot of people that could potentially retire soon, with the highest need being for Senior Engineers. Based off our analysis, 29,414 Senior Engineers are considering retiring soon. 
 - The second highest need, not far behind Senior Engineers, is Senior Staff. 28,254 Senior Staff members are likekly to consider retiring soon. 
 
 The second deliverable for my analysis shows a list of all current employees that are eligible for the mentorship program, which is also based on birth date.
 
-![](data/mentorship_eligibility.png)
+![](Data/mentorship_eligibility.png)
 - There are 1,550 employees in this list
 - Clearly, Pewlett-Hackard will likely need to hire many more people to fill these 90,000 positions that may be open soon.
 - There are over 29,000 Senior Engineer positions that may need to be filled soon, and only 529 mentorship eligible Senior Engineers at the company.
